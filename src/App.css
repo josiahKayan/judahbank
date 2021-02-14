@@ -1,4 +1,18 @@
-.App {
+*{
+  margin:0;
+  padding: 0;
+  list-style-type: none
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body{
+  /* font-family: 'Roboto', sans-serif; */
+  font-size:  cursive;
+  background-color: #dcd7d7c4;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +49,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

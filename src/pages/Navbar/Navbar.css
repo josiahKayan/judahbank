@@ -1,0 +1,23 @@
+.navbar_container{
+    
+    background-color: #ffffff;
+    height: 74px;
+    width: 100%;
+}
+
+.navbar_container_opcoes{
+    display: flex;
+    background-color: #ffffff;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 120px; 
+    padding-left: 120px;
+    padding-top: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+li{
+    margin-right: 16px;
+}
+

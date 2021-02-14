@@ -1,0 +1,22 @@
+.container_card{
+    background-color: #fffE;
+    height: 460px;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 0.5vh;
+    border-radius: 4px;
+    padding: 20px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-column-gap: 50px;
+}
+
+.container_content_header{
+    margin-bottom: 10px;
+}
+
+.opc{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2px;
+}
